@@ -1,1 +1,3 @@
-kdsakzdaks
+read data from input
+add continents
+add more countries
