@@ -17,7 +17,11 @@ public class Game {
 		String country = cols[0];
 		String continent= cols[1];
 		String answer= console.readLine("which continent does " + country+ " belong to?");
+
+	if(answer.equalsIgnoreCase(continent)) 
+
 	if(answer.equalsIgnoreCase(continent)) {
+
 	    System.out.println("Correct!");
 	}else {
 	    System.out.println("No, the answer is " + continent);
