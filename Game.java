@@ -4,7 +4,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.FileNotFoundException;
 
-
 public class Game {
     public static void main(String[] args) {
 	System.out.println("Countries Game");
