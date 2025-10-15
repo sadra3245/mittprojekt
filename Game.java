@@ -22,7 +22,11 @@ public class Game {
 		String continent= cols[1];
 		String answer= console.readLine("which continent does " + country+ " belong to?");
 
-	if(answer.equalsIgnoreCase(continent)) 
+	 if(answer.equalsIgnoreCase("exit")) {
+ 	    	break;
+	}
+
+	if(answer.equalsIgnoreCase(continent))
 
 	if(answer.equalsIgnoreCase(continent)) {
 
@@ -37,9 +41,9 @@ public class Game {
 	}catch(IOException e) {
 	    e.printStackTrace();
 	}
-	
-	System.out.println("You scored  " + correct+ " out of  " + total);
 
+	System.out.println("You scored  " + correct+ " out of  " + total);
+	System.out.println("Type 'exit' to stop the game");
 
     }
 }
