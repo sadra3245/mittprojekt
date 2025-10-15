@@ -1,5 +1,5 @@
-Type 'run' to begin the game.
+Type 'run' to start the game.
 There are some questions for you: You are asked a country, you answer the name of the continent.
 Answer as many as you can.
-You get your score at the end.
-Good luck!!
+You get your score at the end. 
+Good luck!
