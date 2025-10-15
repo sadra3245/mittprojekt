@@ -6,6 +6,7 @@ import java.io.FileNotFoundException;
 
 public class Game {
     public static void main(String[] args) {
+	 System.out.println("Type 'exit' to stop the game");
 	System.out.println("Countries Game");
 	Console console = System.console();
 	BufferedReader br = null;
@@ -43,7 +44,7 @@ public class Game {
 	}
 
 	System.out.println("You scored  " + correct+ " out of  " + total);
-	System.out.println("Type 'exit' to stop the game");
+
 
     }
 }
