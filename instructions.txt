@@ -2,6 +2,6 @@ Type 'run' to start the game.
 There are some questions for you: You are asked a country, you answer the name of the continent.
 Answer as many as you can.
 You get your score at the end.
- 
+If you answer any question incorrectly, you will be asked again later. 
 Good luck!
 and have fun
