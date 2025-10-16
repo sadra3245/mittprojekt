@@ -10,7 +10,7 @@ public class Game {
 	System.out.println("Countries Game");
 	Console console = System.console();
 	BufferedReader br = null;
-	int tal = 0;
+	int total = 0;
 	int correct = 0;
 
 	try {
