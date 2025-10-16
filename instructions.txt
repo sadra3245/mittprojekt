@@ -3,3 +3,4 @@ There are some questions for you: You are asked a country, you answer the name o
 Answer as many as you can.
 You get your score at the end. 
 Good luck!
+and have fun
